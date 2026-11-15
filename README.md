@@ -52,6 +52,8 @@ Click any wallpaper to open it at full size.
 
 ## Palette
 
+![Atlas Deco palette over the Sunset Boulevard wallpaper](palette.webp)
+
 | Role | Hex | From the art |
 |------|-----|--------------|
 | Background | `#121c21` | Night side of the sky |
