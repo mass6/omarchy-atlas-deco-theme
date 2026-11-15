@@ -1,0 +1,35 @@
+# Atlas Deco — art deco machine age: petrol-teal sky, gilded gold, molten copper, cream type.
+mode = "dark"
+
+accent = "#f2b52a"
+selection = "#26404a"
+muted = "#62808a"
+
+background = "#121c21"
+dark_background = "#0e171b"
+darker_background = "#0a1114"
+lighter_background = "#1c2b31"
+
+foreground = "#efe3c2"
+dark_foreground = "#81969b"
+light_foreground = "#d4c7a3"
+bright_foreground = "#fbf4de"
+
+red = "#d9643a"
+yellow = "#f2b52a"
+orange = "#e8913a"
+green = "#9db88f"
+cyan = "#7fb3ab"
+blue = "#7198b3"
+magenta = "#c88e9c"
+brown = "#8a5a2b"
+
+bright_red = "#f08a62"
+bright_yellow = "#f9d36b"
+bright_green = "#c2d8b2"
+bright_cyan = "#a9d3cb"
+bright_blue = "#9fbdd1"
+bright_magenta = "#e4b6c0"
+
+hyprland_active_border = "rgba(f2b52aee) rgba(cc6224ee) 45deg"
+hyprland_inactive_border = "rgba(26404aaa)"
