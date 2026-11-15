@@ -15,6 +15,17 @@ You can also install it from the Omarchy menu under **Install › Style › Them
 
 Cycle through the wallpapers with `omarchy theme bg next`, or pick one with `omarchy theme bg-switcher`.
 
+## Uninstall
+
+Switch to another theme first, then remove this one:
+
+```bash
+omarchy theme set tokyo-night   # or any other theme
+omarchy theme remove atlas-deco
+```
+
+`omarchy theme remove` deletes the theme's folder but doesn't change the active theme, so removing it while it's in use leaves its colours on your desktop until you switch.
+
 ## Wallpapers
 
 Nine wallpapers come with the theme.
